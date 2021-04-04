@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henrylai98
+- 👋 Hi, I’m Lai Yip Hang, Nickname: Henry
 - 👀 I’m interested in table tennis, bowling and swimming.
 - 🌱 I’m currently studying bachelor of information technology at UUM
 - 💞️ I’m looking to collaborate on AR/VR technology, GUI related company
